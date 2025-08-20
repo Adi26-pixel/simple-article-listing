@@ -7,11 +7,11 @@
 body {
   height: 100vh;
   font-family: "Poppins", sans-serif;
-  background-color: #f8fafc;
+  background-color: #ffffff;
 }
 
 .container {
-  max-width: 400px;
+  max-width: 380px;
   margin: 42px auto;
 }
 
